@@ -3,7 +3,7 @@ import requests
 import re
 from typing import List
 import urllib.parse
-import fitz  # Import PyMuPDF (fitz) for PDF handling
+import fitz # Import PyMuPDF (fitz) for PDF handling
 
 
 # Check if a file exists
